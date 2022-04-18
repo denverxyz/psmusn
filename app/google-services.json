@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962695623130",
+    "project_id": "psm-usn",
+    "storage_bucket": "psm-usn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962695623130:android:5aad9de050d78ac3c790e3",
+        "android_client_info": {
+          "package_name": "com.daniel.psmusm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962695623130-fch5adko13pq34snppmd84l55itnc2ql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSfotaQKqNJPb-ynFxWeTRYy6YXmq93Mc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962695623130-fch5adko13pq34snppmd84l55itnc2ql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
